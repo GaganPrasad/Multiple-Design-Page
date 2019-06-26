@@ -1,0 +1,40 @@
+body{
+  background-color: black;
+  color: #84c754;
+  font-family:monospace;
+}
+header{
+  padding: 10px;
+}
+.menu-item-3 a{
+  color: #84c754;
+  font-size: 18px;
+}
+.menu-item-3 a:hover{
+  text-decoration: none;
+  color: white;
+}
+.active a{
+  color: white;
+  font-weight: 400;
+}
+.white-box{
+  border: 1px solid white;
+  border-radius: 5px;
+  color: white;
+  padding: 15px;
+}
+.content-section p a{
+  color: white;
+  text-decoration: underline;
+}
+.content-section p a:hover{
+  color: #84c754;
+}
+footer div{
+  border: 1px solid white;
+  border-radius: 5px;
+  color: white;
+  text-align: center;
+  padding: 10px;
+}
